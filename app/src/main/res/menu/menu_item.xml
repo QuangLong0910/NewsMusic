@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/trangchu" android:title="Trang chủ"/>
+    <item android:id="@+id/thegioi" android:title="Thế giới"/>
+    <item android:id="@+id/thoisu" android:title="Thời sự"/>
+    <item android:id="@+id/kinhdoanh" android:title="Kinh doanh"/>
+    <item android:id="@+id/startup" android:title="Startup"/>
+    <item android:id="@+id/giaitri" android:title="Giải trí"/>
+    <item android:id="@+id/thethao" android:title="Thể thao"/>
+    <item android:id="@+id/phapluat" android:title="Pháp luật"/>
+    <item android:id="@+id/giaoduc" android:title="Giáo dục"/>
+    <item android:id="@+id/tinmoinhat" android:title="Tin mới nhất"/>
+    <item android:id="@+id/tinnoibat" android:title="Tin nổi bật"/>
+    <item android:id="@+id/suckhoe" android:title="Sức khỏa"/>
+    <item android:id="@+id/doisong" android:title="Đời sống"/>
+    <item android:id="@+id/dulich" android:title="Du lịch"/>
+    <item android:id="@+id/khoahoc" android:title="Khoa học"/>
+    <item android:id="@+id/sohoa" android:title="Số hóa"/>
+    <item android:id="@+id/xe" android:title="Xe"/>
+    <item android:id="@+id/ykien" android:title="Ý kiến"/>
+    <item android:id="@+id/tamsu" android:title="Tâm sự"/>
+    <item android:id="@+id/cuoi" android:title="Cười"/>
+    <item android:id="@+id/tinxemnhieu" android:title="Tin xem nhiều"/>
+
+
+</menu>

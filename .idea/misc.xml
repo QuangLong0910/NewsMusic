@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.187" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_dang_ki.xml" value="0.24864130434782608" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_dang_nhap.xml" value="0.25" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_man_doc_bao.xml" value="0.24864130434782608" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.3625" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_man_nghe_nhac.xml" value="0.24864130434782608" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_man_nghe_nhacdatabase.xml" value="0.23007246376811594" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_man_tin.xml" value="0.35833333333333334" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_mannghenhac.xml" value="0.33" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_newuser.xml" value="0.24864130434782608" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_nguoi_dung.xml" value="0.25" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_nhacyeuthick.xml" value="0.1" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/activity_webview.xml" value="0.3625" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/dong1_item.xml" value="0.1828125" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/dong_item.xml" value="0.17603850050658562" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/item_nguoidung.xml" value="0.25" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/itemnguoidung.xml" value="0.3625" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/listviewnhac.xml" value="0.18" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/listviewnhac2.xml" value="0.25" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/listyeuthick.xml" value="0.25" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/layout/nav_header.xml" value="0.20878623188405798" />
+        <entry key="..\:/ANDROIDSTUDIO/NewSMusic/app/src/main/res/menu/menu_item.xml" value="0.35833333333333334" />
+        <entry key="..\:/ANDROIDSTUDIO/SDK/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/ANDROIDSTUDIO/SDK/platforms/android-32/data/res/layout/list_content.xml" value="0.18541666666666667" />
+        <entry key="..\:/ANDROIDSTUDIO/SDK/platforms/android-32/data/res/layout/simple_expandable_list_item_1.xml" value="0.18541666666666667" />
+        <entry key="..\:/ANDROIDSTUDIO/SDK/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.18541666666666667" />
+        <entry key="..\:/ANDROIDSTUDIO/SDK/platforms/android-32/data/res/layout/simple_list_item_activated_1.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
